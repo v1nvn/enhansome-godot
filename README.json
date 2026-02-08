@@ -51,7 +51,7 @@
             "last_commit": "2025-12-04T10:43:58Z",
             "owner": "unknown-horizons",
             "repo": "godot-port",
-            "stars": 841
+            "stars": 840
           }
         }
       ],
@@ -210,7 +210,7 @@
             "last_commit": "2025-11-21T15:18:25Z",
             "owner": "notapixelstudio",
             "repo": "starship-olympics",
-            "stars": 522
+            "stars": 523
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2025-02-03T10:54:41Z",
             "owner": "w84death",
             "repo": "Tanks-of-Freedom",
-            "stars": 1178
+            "stars": 1180
           }
         },
         {
@@ -460,7 +460,7 @@
             "last_commit": "2025-06-25T11:51:56Z",
             "owner": "FOSS-Supremacy",
             "repo": "OpenLiberty",
-            "stars": 372
+            "stars": 373
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-01-02T00:49:24Z",
             "owner": "Quaint-Studios",
             "repo": "Reia",
-            "stars": 728
+            "stars": 729
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2025-10-02T06:46:27Z",
             "owner": "P1X-in",
             "repo": "Tanks-of-Freedom-3-D",
-            "stars": 364
+            "stars": 365
           }
         },
         {
@@ -501,10 +501,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-06T15:31:59Z",
+            "last_commit": "2026-02-07T15:15:25Z",
             "owner": "Revolutionary-Games",
             "repo": "Thrive",
-            "stars": 3428
+            "stars": 3429
           }
         }
       ],
@@ -528,7 +528,7 @@
             "last_commit": "2023-01-15T19:24:09Z",
             "owner": "FelicePollano",
             "repo": "Boom",
-            "stars": 43
+            "stars": 42
           }
         },
         {
@@ -628,7 +628,7 @@
             "last_commit": "2025-09-05T15:03:54Z",
             "owner": "mhgolkar",
             "repo": "Arrow",
-            "stars": 1225
+            "stars": 1226
           }
         },
         {
@@ -651,10 +651,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-02-06T16:58:21Z",
+            "last_commit": "2026-02-07T16:01:41Z",
             "owner": "MewPurPur",
             "repo": "GodSVG",
-            "stars": 2268
+            "stars": 2270
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2025-09-22T21:29:46Z",
             "owner": "mbrlabs",
             "repo": "Lorien",
-            "stars": 6484
+            "stars": 6487
           }
         },
         {
@@ -680,7 +680,7 @@
             "last_commit": "2026-01-26T06:23:47Z",
             "owner": "RodZill4",
             "repo": "material-maker",
-            "stars": 5089
+            "stars": 5091
           }
         },
         {
@@ -690,10 +690,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-02-06T22:23:38Z",
+            "last_commit": "2026-02-07T22:32:53Z",
             "owner": "Orama-Interactive",
             "repo": "Pixelorama",
-            "stars": 9125
+            "stars": 9128
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2023-11-23T00:33:30Z",
             "owner": "protongraph",
             "repo": "protongraph",
-            "stars": 1647
+            "stars": 1648
           }
         }
       ],
@@ -735,10 +735,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-02-05T22:03:44Z",
+            "last_commit": "2026-02-07T22:22:14Z",
             "owner": "SimulaVR",
             "repo": "Simula",
-            "stars": 3162
+            "stars": 3160
           }
         },
         {
@@ -819,7 +819,7 @@
             "last_commit": "2026-01-29T20:03:23Z",
             "owner": "nezvers",
             "repo": "Godot-GameTemplate",
-            "stars": 1514
+            "stars": 1515
           }
         },
         {
@@ -845,7 +845,7 @@
             "last_commit": "2026-02-03T05:02:35Z",
             "owner": "Maaack",
             "repo": "Godot-Game-Template",
-            "stars": 1223
+            "stars": 1224
           }
         },
         {
@@ -992,7 +992,7 @@
             "last_commit": "2026-02-03T00:36:41Z",
             "owner": "godotengine",
             "repo": "godot-demo-projects",
-            "stars": 8177
+            "stars": 8180
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2024-12-01T19:26:02Z",
             "owner": "MrEliptik",
             "repo": "godot_experiments",
-            "stars": 955
+            "stars": 956
           }
         },
         {
@@ -1031,7 +1031,7 @@
             "last_commit": "2026-01-08T09:15:59Z",
             "owner": "GDquest",
             "repo": "godot-open-rpg",
-            "stars": 2567
+            "stars": 2568
           }
         },
         {
@@ -1089,7 +1089,7 @@
             "last_commit": "2021-04-26T01:38:17Z",
             "owner": "GDQuest",
             "repo": "godot-make-pro-2d-games",
-            "stars": 1169
+            "stars": 1170
           }
         },
         {
@@ -1280,7 +1280,7 @@
             "last_commit": "2025-12-02T08:49:09Z",
             "owner": "bitbrain",
             "repo": "beehave",
-            "stars": 2891
+            "stars": 2892
           }
         },
         {
@@ -1308,7 +1308,7 @@
             "last_commit": "2025-11-16T16:51:18Z",
             "owner": "blackears",
             "repo": "cyclopsLevelBuilder",
-            "stars": 1443
+            "stars": 1444
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2026-02-02T19:11:42Z",
             "owner": "dialogic-godot",
             "repo": "dialogic",
-            "stars": 5206
+            "stars": 5217
           }
         },
         {
@@ -1334,7 +1334,7 @@
             "last_commit": "2026-01-17T21:32:14Z",
             "owner": "Rubonnek",
             "repo": "dialogue-engine",
-            "stars": 292
+            "stars": 293
           }
         },
         {
@@ -1347,7 +1347,7 @@
             "last_commit": "2026-02-05T12:37:10Z",
             "owner": "nathanhoad",
             "repo": "godot_dialogue_manager",
-            "stars": 3293
+            "stars": 3297
           }
         },
         {
@@ -1360,7 +1360,7 @@
             "last_commit": "2025-11-25T12:52:26Z",
             "owner": "TRUINGLol",
             "repo": "DotnetQuestSystem",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -1451,7 +1451,7 @@
             "last_commit": "2026-01-30T07:35:28Z",
             "owner": "MikeSchulze",
             "repo": "gdUnit4",
-            "stars": 933
+            "stars": 937
           }
         },
         {
@@ -1487,7 +1487,7 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-02-06T23:12:32Z",
+            "last_commit": "2026-02-07T14:50:27Z",
             "owner": "codevogel",
             "repo": "godot_doctor",
             "stars": 68
@@ -1516,7 +1516,7 @@
             "last_commit": "2025-11-22T09:19:08Z",
             "owner": "paulloz",
             "repo": "godot-ink",
-            "stars": 731
+            "stars": 732
           }
         },
         {
@@ -1594,7 +1594,7 @@
             "last_commit": "2026-01-27T20:28:56Z",
             "owner": "2shady4u",
             "repo": "godot-sqlite",
-            "stars": 1281
+            "stars": 1282
           }
         },
         {
@@ -1659,7 +1659,7 @@
             "last_commit": "2026-01-21T18:17:47Z",
             "owner": "bitwes",
             "repo": "Gut",
-            "stars": 2370
+            "stars": 2372
           }
         },
         {
@@ -1716,7 +1716,7 @@
             "last_commit": "2025-07-12T20:19:25Z",
             "owner": "nklbdev",
             "repo": "godot-4-importality",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -1729,7 +1729,7 @@
             "last_commit": "2025-06-08T00:04:09Z",
             "owner": "nathanhoad",
             "repo": "godot_input_helper",
-            "stars": 998
+            "stars": 999
           }
         },
         {
@@ -1757,10 +1757,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-06T09:14:15Z",
+            "last_commit": "2026-02-07T22:25:07Z",
             "owner": "limbonaut",
             "repo": "limboai",
-            "stars": 2478
+            "stars": 2479
           }
         },
         {
@@ -1773,7 +1773,7 @@
             "last_commit": "2026-02-03T05:02:35Z",
             "owner": "Maaack",
             "repo": "Godot-Game-Template",
-            "stars": 1223
+            "stars": 1224
           }
         },
         {
@@ -1799,7 +1799,7 @@
             "last_commit": "2026-02-05T00:31:39Z",
             "owner": "Maaack",
             "repo": "Godot-Scene-Loader",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -1812,7 +1812,7 @@
             "last_commit": "2026-02-06T23:03:49Z",
             "owner": "foxssake",
             "repo": "netfox",
-            "stars": 871
+            "stars": 872
           }
         },
         {
@@ -1825,7 +1825,7 @@
             "last_commit": "2026-02-06T15:16:18Z",
             "owner": "nobodywho-ooo",
             "repo": "nobodywho",
-            "stars": 693
+            "stars": 695
           }
         },
         {
@@ -1861,7 +1861,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-06T01:31:52Z",
+            "last_commit": "2026-02-08T03:28:24Z",
             "owner": "Vahera",
             "repo": "godot-orchestrator",
             "stars": 1422
@@ -1877,7 +1877,7 @@
             "last_commit": "2026-01-22T20:42:12Z",
             "owner": "ramokz",
             "repo": "phantom-camera",
-            "stars": 3114
+            "stars": 3116
           }
         },
         {
@@ -1929,7 +1929,7 @@
             "last_commit": "2026-01-01T23:19:33Z",
             "owner": "HungryProton",
             "repo": "scatter",
-            "stars": 2741
+            "stars": 2742
           }
         },
         {
@@ -2048,10 +2048,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-02-06T16:37:10Z",
+            "last_commit": "2026-02-07T12:36:06Z",
             "owner": "Maran23",
             "repo": "script-ide",
-            "stars": 929
+            "stars": 931
           }
         },
         {
@@ -2090,7 +2090,7 @@
             "last_commit": "2025-08-24T10:53:20Z",
             "owner": "fbcosentino",
             "repo": "godot-simplified-flightsim",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -2116,7 +2116,7 @@
             "last_commit": "2025-12-21T18:06:58Z",
             "owner": "SirRamEsq",
             "repo": "SmartShape2D",
-            "stars": 1643
+            "stars": 1644
           }
         },
         {
@@ -2181,7 +2181,7 @@
             "last_commit": "2026-02-03T15:33:51Z",
             "owner": "TokisanGames",
             "repo": "Terrain3D",
-            "stars": 3617
+            "stars": 3618
           }
         },
         {
@@ -2426,7 +2426,7 @@
             "last_commit": "2024-09-26T13:49:30Z",
             "owner": "MatejSloboda",
             "repo": "Dijkstra_map_for_Godot",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -2475,7 +2475,7 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-01-26T22:01:37Z",
+            "last_commit": "2026-02-07T17:27:03Z",
             "owner": "godotengine",
             "repo": "escoria",
             "stars": 831
@@ -3069,7 +3069,7 @@
             "last_commit": "2025-08-30T08:31:24Z",
             "owner": "GDQuest",
             "repo": "godot-shaders",
-            "stars": 3816
+            "stars": 3817
           }
         },
         {
@@ -3150,7 +3150,7 @@
             "last_commit": "2023-09-18T11:27:55Z",
             "owner": "GodotECS",
             "repo": "godex",
-            "stars": 1383
+            "stars": 1384
           }
         },
         {
@@ -3176,7 +3176,7 @@
             "last_commit": "2026-01-14T18:32:25Z",
             "owner": "godot-jolt",
             "repo": "godot-jolt",
-            "stars": 2484
+            "stars": 2485
           }
         },
         {
@@ -3202,7 +3202,7 @@
             "last_commit": "2026-02-04T10:01:56Z",
             "owner": "appsinacup",
             "repo": "godot-rapier-2d",
-            "stars": 742
+            "stars": 744
           }
         },
         {
@@ -3620,7 +3620,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-02-07T06:39:33Z",
+            "last_commit": "2026-02-07T08:21:38Z",
             "owner": "JetBrains",
             "repo": "godot-support",
             "stars": 464
@@ -3733,7 +3733,7 @@
             "last_commit": "2025-03-30T15:46:21Z",
             "owner": "catppuccin",
             "repo": "godot",
-            "stars": 229
+            "stars": 230
           }
         },
         {
@@ -3746,7 +3746,7 @@
             "last_commit": "2025-12-13T10:13:05Z",
             "owner": "passivestar",
             "repo": "godot-minimal-theme",
-            "stars": 3816
+            "stars": 3817
           }
         }
       ],
@@ -3778,7 +3778,7 @@
             "last_commit": "2025-06-01T15:11:50Z",
             "owner": "godotengine",
             "repo": "godot-syntax-themes",
-            "stars": 479
+            "stars": 480
           }
         },
         {
@@ -3810,7 +3810,7 @@
             "last_commit": "2026-01-27T02:30:59Z",
             "owner": "voylin",
             "repo": "godot_color_theme",
-            "stars": 3
+            "stars": 5
           }
         },
         {
@@ -3823,7 +3823,7 @@
             "last_commit": "2026-01-27T02:30:59Z",
             "owner": "voylin",
             "repo": "godot_color_theme",
-            "stars": 3
+            "stars": 5
           }
         },
         {
@@ -3868,7 +3868,7 @@
             "last_commit": "2025-02-25T22:03:54Z",
             "owner": "aaronfranke",
             "repo": "Linux-tools",
-            "stars": 67
+            "stars": 66
           }
         },
         {
@@ -3965,7 +3965,7 @@
             "last_commit": "2026-02-06T21:43:08Z",
             "owner": "adalinesimonian",
             "repo": "gdvm",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -3991,7 +3991,7 @@
             "last_commit": "2026-01-26T23:45:42Z",
             "owner": "aBARICHELLO",
             "repo": "godot-ci",
-            "stars": 1018
+            "stars": 1020
           }
         },
         {
@@ -4082,10 +4082,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:02:03.782Z",
+    "last_updated": "2026-02-08T04:37:23.443Z",
     "original_repository": "godotengine/awesome-godot",
     "source_repository": "v1nvn/enhansome-godot",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Godot with stars"
   }
 }
